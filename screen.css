@@ -14,7 +14,9 @@ main {
 
 .masthead {
     background-image: url('images/Computer.jpg'); 
+    background-position: cover;
     height: 200px;
+    border-radius: 20px;
 }
 .details{
     display: flex;
