@@ -16,9 +16,10 @@ main {
     background-image: url('images/Computer.jpg'); 
     background-position: cover;
     background-position: bottom;
-    height: 300px;
+    height: 200px;
     border-radius: 20px;
 }
+
 .details{
     display: flex;
     gap: 25px; 
