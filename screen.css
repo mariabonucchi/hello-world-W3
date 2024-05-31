@@ -12,11 +12,6 @@ main {
     width: 800px;
 }
 
-img {
-    width: 100%;
-    border-radius: 20px;
-}
-
 .details{
     display: flex;
     gap: 25px; 
@@ -33,6 +28,7 @@ img {
 
 img {
     width: 100%;
+    border-radius: 20px;
 }
 
 h2 {
