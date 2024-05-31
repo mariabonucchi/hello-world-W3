@@ -12,6 +12,13 @@ main {
     width: 800px;
 }
 
+.masthead {
+    background-image: url('images/Computer.jpg'); 
+    background-position: cover;
+    background-position: bottom;
+    height: 275px;
+    border-radius: 20px;
+
 .details{
     display: flex;
     gap: 25px; 
@@ -28,7 +35,6 @@ main {
 
 img {
     width: 100%;
-    border-radius: 20px;
 }
 
 h2 {
