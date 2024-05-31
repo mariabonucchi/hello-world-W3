@@ -30,9 +30,16 @@ main {
     flex-grow: 1; 
     flex-basis: 0; 
     background: #eee; 
-    padding: 25px; 
     border-radius: 20px; 
     margin-top: 25px; 
+}
+
+.details section p{
+    margin: 25px;
+}
+
+.details section h2{
+    margin: 25px;
 }
 
 .details section.with-code {
@@ -47,6 +54,8 @@ div.code-html {
     padding: 25px;
     background: #424242;
     color: #fff;
+    border-bottom-left-radius: 20;
+    border-bottom-right-radius: 20px;
 }
 
 img {
