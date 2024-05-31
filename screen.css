@@ -18,6 +18,7 @@ main {
     background-position: bottom;
     height: 275px;
     border-radius: 20px;
+}
 
 .details{
     display: flex;
