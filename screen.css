@@ -39,6 +39,11 @@ img {
     width: 100%;
 }
 
+h1 {
+    background-image: url('images/Logo.png');
+    background-repeat: no-repeat; 
+}
+
 h2 {
     margin: 0 0 18px 0;
 }
