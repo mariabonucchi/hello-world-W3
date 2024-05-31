@@ -35,6 +35,20 @@ main {
     margin-top: 25px; 
 }
 
+.details section.with-code {
+    padding: 0;
+}
+
+div.code-copy {
+    padding: 25px;
+}
+
+div.code-html {
+    padding: 25px;
+    background: #424242;
+    color: #fff;
+}
+
 img {
     width: 100%;
 }
